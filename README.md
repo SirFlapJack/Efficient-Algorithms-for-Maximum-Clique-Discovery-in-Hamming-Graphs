@@ -1,5 +1,4 @@
-# 3005
-CMP3005 project report
+
 
 Abstract:	This paper presents algorithms for identifying the largest possible group of binary vectors such that the distance between any two distinct vectors is at least a certain value. We accomplish this by creating a graph, called the Hamming graph, where each vertex represents a vector and two vertices are connected by an edge if the distance between their corresponding vectors is greater than or equal to the specified value. 10
  
